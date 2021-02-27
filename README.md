@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center">
+ <h2 align="center">Welcome to my Profile</h2>
+</p>
 
-<!--
-**zhujun98/zhujun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/jun-zhu-0bb51782/">
+  <img align="left" alt="TomasCostaK LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+![zhujun98's github stats](https://github-readme-stats.vercel.app/api?username=zhujun98&show_icons=true)
+<br />
+
+<!-- Optional Visitors badge: -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TomasCostaK.TomasCostaK)
+
+<br />
+
