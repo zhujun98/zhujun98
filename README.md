@@ -1,4 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-zhujun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jun-zhu-0bb51782/)](https://www.linkedin.com/in/jun-zhu-0bb51782/)
+![GitHub followers](https://img.shields.io/github/followers/zhujun98?label=Follow&style=social)
 
 ## Hi 👋, 
 My name is Jun Zhu. I am a software engineer, a research scientist on deep learning as well as an accelerator physicist.
