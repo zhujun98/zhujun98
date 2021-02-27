@@ -1,7 +1,3 @@
-<a href="https://www.linkedin.com/in/jun-zhu-0bb51782/">
-  <img align="left" alt="TomasCostaK LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
 [![Linkedin Badge](https://img.shields.io/badge/-zhujun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jun-zhu-0bb51782/)](https://www.linkedin.com/in/jun-zhu-0bb51782/)
 
 ## Hi 👋, 
