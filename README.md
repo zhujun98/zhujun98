@@ -4,13 +4,11 @@
 ## Hi 👋, 
 My name is Jun Zhu. I am a software engineer, a research scientist on deep learning as well as an accelerator physicist.
 
-<br />
-
 ![zhujun98's github stats](https://github-readme-stats.vercel.app/api?username=zhujun98&show_icons=true)
-<br />
+![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zhujun98&layout=compact&hide=Jupyter%20Notebook)
 
 <!-- Optional Visitors badge: -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TomasCostaK.TomasCostaK)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhujun98.zhujun98)
 
 <br />
 
