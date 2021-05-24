@@ -5,7 +5,7 @@
 My name is Jun Zhu. I am a software engineer, a research scientist on deep learning as well as an accelerator physicist.
 
 ![zhujun98's github stats](https://github-readme-stats.vercel.app/api?username=zhujun98&show_icons=true)
-![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zhujun98&layout=compact&hide=Jupyter%20Notebook)
+![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zhujun98&layout=compact&hide=Jupyter%20Notebook,GLSL,Tex)
 
 <!-- Optional Visitors badge: -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhujun98.zhujun98)
