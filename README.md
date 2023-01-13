@@ -3,8 +3,8 @@
 
 Messi is an image of Ourselves! We try, we fall, we are heartbroken - but we rise again to fight another day. We persist and we win! Messi mirrored it all and that is why we find ourselves in unison with him!
 
-![zhujun98's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zhujun98&show_icons=true)
-![language stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zhujun98&layout=compact&hide=Jupyter%20Notebook,GLSL,Tex,shell,starlark)
+![Jun's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zhujun98&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhujun98&count_private=true&layout=compact&hide=Jupyter%20Notebook,HTML,GLSL,Tex,shell,starlark)](https://github.com/zhujun98/github-readme-stats)
 
 <!-- Optional Visitors badge: -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhujun98.zhujun98)
