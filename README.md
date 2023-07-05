@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-zhujun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jun-zhu-0bb51782/)](https://www.linkedin.com/in/jun-zhu-0bb51782/)
 ![GitHub followers](https://img.shields.io/github/followers/zhujun98?label=Follow&style=social)
 
-Messi is an image of Ourselves! We try, we fall, we are heartbroken - but we rise again to fight another day. We persist and we win! Messi mirrored it all and that is why we find ourselves in unison with him!
+:crown:Messi:soccer: is an image of Ourselves! We try, we fall, we are heartbroken - but we rise again to fight another day. We persist and we win! Messi mirrored it all and that is why we find ourselves in unison with him!
 
 善战者无赫赫之功
 
