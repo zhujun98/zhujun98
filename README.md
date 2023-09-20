@@ -8,6 +8,9 @@
 ![Jun's GitHub stats](https://github-readme-stats-sable-phi-28.vercel.app/api?username=zhujun98&show_icons=true&line_height=20&card_width=400)
 ![Top Langs](https://github-readme-stats-sable-phi-28.vercel.app/api/top-langs/?username=zhujun98&langs_count=6&card_width=250&count_private=true&layout=compact&hide=CMake,Jupyter%20Notebook,HTML,GLSL,Tex,shell,vim%20script,starlark)
 
+Recent projects:
+- [RECASTX](https://zhujun98.github.io/recastx/): near real-time 3D tomographic reconstruction
+
 <!-- Optional Visitors badge: -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhujun98.zhujun98)
 
