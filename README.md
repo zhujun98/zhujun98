@@ -6,7 +6,7 @@
 善战者无赫赫之功
 
 ![Jun's GitHub stats](https://github-readme-stats-sable-phi-28.vercel.app/api?username=zhujun98&show_icons=true&line_height=20&card_width=400)
-![Top Langs](https://github-readme-stats-sable-phi-28.vercel.app/api/top-langs/?username=zhujun98&langs_count=6&card_width=250&count_private=true&layout=compact&hide=CMake,Jupyter%20Notebook,HTML,GLSL,Tex,shell,vim%20script,starlark)
+![Top Langs](https://github-readme-stats-sable-phi-28.vercel.app/api/top-langs/?username=zhujun98&langs_count=6&card_width=250&count_private=true&layout=compact&hide=CMake,Jupyter%20Notebook,R,HTML,CSS,Dockerfile,GLSL,Tex,shell,vim%20script,starlark)
 
 Check my [homepage](https://zhujun98.github.io/homepage/) (currently under construction!)
 
