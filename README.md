@@ -10,7 +10,7 @@
 Take a look at my recent projects:
 - [RECASTX](https://zhujun98.github.io/recastx/): near real-time 3D tomographic reconstruction and visualization
 
-[![Top Langs](https://github-readme-stats-deploy-ci8zjj9sg-zhujun98.vercel.app/api/top-langs/?username=zhujun98&langs_count=6&layout=compact&hide=Jupyter%20notebook,shell,CSS,Tex,CMake,HTML,Dockerfile,Starlark)](https://github.com/zhujun98/github-readme-stats-deploy)
+[Top Langs](https://github-readme-stats-deploy-ci8zjj9sg-zhujun98.vercel.app/api/top-langs/?username=zhujun98&langs_count=6&layout=compact&hide=Jupyter%20notebook,shell,CSS,Tex,CMake,HTML,Dockerfile,Starlark)
 
 <!-- Optional Visitors badge: -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhujun98.zhujun98)
