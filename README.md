@@ -17,3 +17,5 @@ Take a look at my recent projects:
 
 <br />
 
+If people have shown that they can go deep and do more than one thing in different fields really well, then they have probably gained experience in the art of learning something and taking it to an excellent level,
+which is generally pretty application to other things.
