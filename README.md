@@ -7,11 +7,6 @@
 
 善战者无赫赫之功
 
-Take a look at my recent projects:
-- [RECASTX](https://zhujun98.github.io/recastx/): near real-time 3D tomographic reconstruction and visualization
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhujun98&langs_count=6&layout=compact&exclude_repo=github-readme-stats-deploy&hide=glsl,Jupyter%20notebook,shell,css,tex,cmake,html,dockerfile,starlark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- Optional Visitors badge: -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhujun98.zhujun98)
 
